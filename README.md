@@ -1,5 +1,6 @@
 # JAVA
-JAVA 스터디, 프로젝트 
+JAVA 스터디, 프로젝트
+계속 업데이트 예정
 
 ## JAVA : StudyCafe 관리 프로그램
 
