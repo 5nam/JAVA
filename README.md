@@ -5,7 +5,7 @@ JAVA 스터디, 프로젝트
 ## JAVA : StudyCafe 관리 프로그램
 
 ### 1. UML 설계
-[블로그 링크]()
+[5nam 블로그](https://ohnam00.tistory.com/15?category=999449)
 
 ### 2. Room 생성/삭제 구현
 ### 3. checkin, checkout 구현
@@ -15,6 +15,3 @@ JAVA 스터디, 프로젝트
 ### 7. 프로젝트 GUI 화면 디자인
 ### 8. GUI 프로그램 이벤트 연결
 ### 9. 프로젝트 최종 완성 : StudyCafe 폴더에 소스코드 있음.
-
-## JAVA 복습 : 문제 풀이
-[블로그 링크]()
